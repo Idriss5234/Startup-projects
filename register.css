@@ -1,0 +1,48 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/squared-shapes-abstract-background_79603-877.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;  
+    height: 100%;
+    width:100%;
+    font-family: 'Pacifico', cursive;
+    color: lightgray;
+
+}
+h2{
+    text-align: center;
+    text-decoration: underline ;
+}
+a{
+    color: white;
+}
+.signup{
+    border: 5px solid white;
+    border-radius: 10px;
+    margin:25px;
+    padding: 25px;
+    text-align: center;
+
+    font-size: 30px;
+}
+.buffer{
+    height:50px
+}
+p{
+    color:whitesmoke;
+}
+.btns{
+ width:250px ;
+ height: 50px;
+ background-color: #4e32a8; 
+  color: black; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 10px; 
+  font-size: 16px; 
+  cursor: pointer; 
+}
+
+.btns:hover {
+  transform: scale(1.1);
+}
+
